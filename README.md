@@ -1,4 +1,4 @@
-# Genome Composition Study
+# Code for "Effects of Optimal Genetic Material in the Initial Population of Evolutionary Algorithms"
 
 This repository contains the code for the paper "Effects of Optimal Genetic Material in the Initial Population of Evolutionary Algorithms" presented at the 2023 IEEE Symposium Series on Computational Intelligence. For more information on the work, you can check out the [paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10372037).
 
@@ -37,7 +37,7 @@ cd code
 python3 benchmark_sphere.py
 ```
 
-The output of the test data woll be saved to the *data* folder. It can be evaluated using the *code/paper_plots.ipynb* notebook.
+The output of the test data will be saved to the *data* folder. It can be evaluated using the *code/paper_plots.ipynb* notebook.
 
 ## Citation
 If you have used this work for research purposes, you can cite it with:
